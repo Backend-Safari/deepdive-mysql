@@ -84,7 +84,7 @@
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/93478318?v=4">
 
-&nbsp;[Minseok-Kim](https://github.com/leeminseok8) 
+&nbsp;[Minseok-Lee](https://github.com/leeminseok8) 
 <br>&nbsp; 🤗 Back-end Developer
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/89123869?v=4">
